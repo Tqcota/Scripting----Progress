@@ -12,7 +12,7 @@ The player first collects the required ingredients, then starts the cooking mini
 
 ### Demo
 
-[Watch the cooking system](cooking-system-demo.mp4)
+[Watch the cooking system](cooking-system-demo.mp4.mp4)
 
 ### How it works
 
