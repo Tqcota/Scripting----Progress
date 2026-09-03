@@ -1,3 +1,5 @@
+
+
 # Scripting Progress
 
 Some of the systems I've made while working with Luau in Roblox Studio.
@@ -12,7 +14,7 @@ The player first collects the required ingredients, then starts the cooking mini
 
 ### Demo
 
-[Watch the cooking system](cooking-system-demo.mp4.mp4)
+[▶ Watch the Cooking System Demo on YouTube](https://youtu.be/sDWts0qmZfA)
 
 ### How it works
 
